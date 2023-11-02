@@ -66,11 +66,7 @@ const Navbar = () => {
             Gorros
           </Link>
         </li>
-        <li>
-          <Link className="menu-link" to="/nosotros">
-            Nosotros
-          </Link>
-        </li>
+
         <li>
           <Link className="menu-link contact" to="/contacto">
             Contacto
