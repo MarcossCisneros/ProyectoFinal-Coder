@@ -155,6 +155,10 @@ ul {
   gap: 1rem;
 }
 
+.numeroDePedido {
+  color: #fff;
+}
+
 .item-count button {
   padding: 1rem;
   border-radius: 1rem;
@@ -329,4 +333,13 @@ h2 {
   font-size: 2rem;
   font-weight: 700;
   background-color: rgb(215, 150, 18);
+}
+
+.enviar {
+  cursor: pointer;
+}
+
+.enviar:hover {
+  transform: scale(1.15);
+  transition: 1s;
 }
